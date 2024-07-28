@@ -1,4 +1,4 @@
-<h2 align="center"> ToDo_API_SR </h2>
+<h2 align="center"> ToDo API </h2>
 <h3> A simple To-Do Web Application</h3>
 <ul>
   <li>ToDo</li>
